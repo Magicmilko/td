@@ -1,0 +1,13 @@
+body{
+    background: rgb(229, 214, 255);
+    font: 18px/1.5 sans-serif;
+    color: rgb(98, 0, 255);
+}
+table,
+td{
+    padding: 10px 10px 10px 10px;
+    border: 1px solid black;
+}
+.amount{
+    text-align: right;
+}
